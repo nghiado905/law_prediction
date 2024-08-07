@@ -1,0 +1,6 @@
+Điều 325. Thứ tự ưu tiên thanh toán
+Thứ tự ưu tiên thánh toán khi xử lý tài sản bảo đảm được xác định như sau:
+1. Trong trường hợp giao dịch bảo đảm được đăng ký thì việc xác định thứ tự ưu tiên thanh toán khi xử lý tài sản bảo đảm được xác định theo thứ tự đăng ký;
+2. Trong trường hợp một tài sản được dùng để bảo đảm thực hiện nhiều nghĩa vụ dân sự mà có giao dịch bảo đảm có đăng ký, có giao dịch bảo đảm không đăng ký thì giao dịch bảo đảm có đăng ký được ưu tiên thanh toán;
+3. Trong trường hợp một tài sản dùng để bảo đảm thực hiện nhiều nghĩa vụ dân sự mà các giao dịch bảo đảm đều không có đăng ký thì thứ tự ưu tiên thanh toán được xác định theo thứ tự xác lập giao dịch bảo đảm.
+II- CẦM CỐ TÀI SẢN
