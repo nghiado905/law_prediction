@@ -1,5 +1,0 @@
-Điều 523. Quyền của bên cung ứng dịch vụ
-Bên cung ứng dịch vụ có các quyền sau đây:
-1. Yêu cầu bên thuê dịch vụ cung cấp thông tin, tài liệu và phương tiện;
-2. Được thay đổi điều kiện dịch vụ vì lợi ích của bên thuê dịch vụ, mà không nhất thiết phải chờ ý kiến của bên thuê dịch vụ, nếu việc chờ ý kiến sẽ gây thiệt hại cho bên thuê dịch vụ, nhưng phải báo ngay cho bên thuê dịch vụ;
-3. Yêu cầu bên thuê dịch vụ trả tiền dịch vụ.

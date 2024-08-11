@@ -1,5 +1,0 @@
-Điều 748. Chủ sở hữu và nội dung quyền đối với tín hiệu vệ tinh mang chương trình được mã Hoá
-1. Quyền đối với tín hiệu vệ tinh mang chương trình được mã hoá thuộc về người đầu tiên phát tín hiệu vệ tinh mang chương trình được mã hoá đó.
-2. Quyền đối với tín hiệu vệ tinh mang chương trình được mã hoá gồm quyền thực hiện, cho phép hoặc cấm người khác thực hiện các hành vi sau:
-a) Sản xuất, lắp ráp, biến đổi, nhập khẩu, bán, cho thuê thiết bị hoặc hệ thống nhằm mục đích giải mã tín hiệu vệ tinh được mã hoá;
-b) Thu, phân phối lại tín hiệu đã được giải mã khi không được người nắm giữ quyền đối với tín hiệu vệ tinh được mã hoá cho phép.

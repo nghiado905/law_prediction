@@ -1,8 +1,0 @@
-Điều 551. Nghĩa vụ của bên nhận gia công
-Bên nhận gia công có các nghĩa vụ sau đây:
-1. Bảo quản nguyên vật liệu do bên đặt gia công cung cấp;
-2. Báo cho bên đặt gia công biết để đổi nguyên vật liệu khác, nếu nguyên vật liệu không bảo đảm chất lượng; từ chối thực hiện gia công, nếu việc sử dụng nguyên vật liệu có thể tạo ra sản phẩm nguy hại cho xã hội; trường hợp không báo hoặc không từ chối thì phải chịu trách nhiệm về sản phẩm tạo ra;
-3. Giao sản phẩm cho bên đặt gia công đúng số lượng, chất lượng, phương thức, thời hạn và địa điểm đã thoả thuận;
-4. Giữ bí mật các thông tin về quy trình gia công và sản phẩm tạo ra;
-5. Chịu trách nhiệm về chất lượng sản phẩm, trừ trường hợp sản phẩm không bảo đảm chất lượng do nguyên vật liệu mà bên đặt gia công cung cấp hoặc do sự chỉ dẫn không hợp lý của bên đặt gia công.
-6. Hoàn trả nguyên vật liệu còn lại cho bên đặt gia công sau khi hoàn thành hợp đồng.
